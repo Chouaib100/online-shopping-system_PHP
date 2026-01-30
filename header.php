@@ -14,7 +14,7 @@ session_start();
 		<title>Online Shopping</title>
 
 		<!-- Google font -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+		<link href="https://github.com/Chouaib100" rel="stylesheet">
 
 		<!-- Bootstrap -->
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
